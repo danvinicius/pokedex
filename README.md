@@ -17,7 +17,7 @@ In this project, I show all Pokémon from the first to the eighth generation.
 <br/>
 
 ## The project
-<b>Click <a href="https://pokedex-g9phie0k0-danvinicius.vercel.app/">here</a> to open the website</b>
+<b>Click <a href="https://pokedex-nu-azure.vercel.app/">here</a> to open the website</b>
 <br/><br/>
 <img src='pokedex-gif.gif' alt='My Pokedex' title='My Pokedex'>
 <br/><br/>
